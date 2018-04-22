@@ -1,0 +1,7 @@
+SAAT *  PTESI * SALI * CARS * PERS * CUMA
+-----------------------------------------
+8:00 *  MAT   * FIZ  * KIM  * BED  * TURK	
+9:00 *  MAT   * FIZ  * KIM  * BED  * TURK
+10:00*  EDE   * GEO  * BIO  * MUZ  * SOS
+11:00*  EDE   * GEO  * BIO  * MUZ  * SOS
+12:00*  MUZ   * KIM  * MAT  * FIZ  * SOS

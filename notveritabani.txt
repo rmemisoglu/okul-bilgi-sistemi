@@ -1,0 +1,10 @@
+ISIM| **| SOYISIM |**| NO |**| PUAN|
+-----------------------------------
+Ramazan	Memisoglu     367      99
+Ahmet	Mehmet	      456      47
+Ali	Veli	12	58
+qwe	ewq	45	78
+mevlut	fak	54	31
+mehmet	memisoglu	29	100
+omer	kucuk	31	12
+ali	veli	49	50

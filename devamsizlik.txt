@@ -1,0 +1,7 @@
+kmlkml
+a	1	3	5
+a	b	1	1
+as	bas	12	14
+qwe	ewq	45	2
+mevlut	fak	54	31
+ahmet	mehmet	20	50
